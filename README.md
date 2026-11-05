@@ -74,7 +74,7 @@ ORDER BY TotalSets DESC, e.ExerciseName;
 Requires MySQL (InnoDB) and phpMyAdmin, e.g. through WampServer.
 
 1. Clone the repo:
-   `git clone https://github.com/[your-username]/[repo-name].git`
+   `git clone https://github.com/avienavien/fitness-tracker-simple-database.git`
 2. Create a new database in phpMyAdmin.
 3. Run the table creation script `[create_tables.sql]`.
 4. Put `fitness_data.csv` somewhere MySQL can read it and update the file path in the `LOAD DATA INFILE` statement (the original used `C:/wamp64/tmp/`).
