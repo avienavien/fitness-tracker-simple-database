@@ -1,0 +1,45 @@
+101,Gumball Watterson,170,2026-03-13,Premium,1,2026-10-25,55,5,Cable Hammer Curl,Biceps,Cable Machine,1,6,55
+101,Gumball Watterson,170,2026-03-13,Premium,1,2026-10-25,55,5,Cable Hammer Curl,Biceps,Cable Machine,2,7,55
+101,Gumball Watterson,170,2026-03-13,Premium,1,2026-10-25,55,5,Cable Hammer Curl,Biceps,Cable Machine,3,8,55
+101,Gumball Watterson,170,2026-03-13,Premium,1,2026-10-25,55,8,Leg Press,Hamstrings,Leg Machine,1,8,100
+101,Gumball Watterson,170,2026-03-13,Premium,1,2026-10-25,55,8,Leg Press,Hamstrings,Leg Machine,2,8,100
+101,Gumball Watterson,170,2026-03-13,Premium,2,2026-10-21,40,4,JM Press,Triceps,Smith Machine,1,8,40
+101,Gumball Watterson,170,2026-03-13,Premium,2,2026-10-21,40,4,JM Press,Triceps,Smith Machine,2,8,45
+101,Gumball Watterson,170,2026-03-13,Premium,2,2026-10-21,40,4,JM Press,Triceps,Smith Machine,3,8,50
+101,Gumball Watterson,170,2026-03-13,Premium,2,2026-10-21,40,5,Cable Hammer Curl,Biceps,Cable Machine,1,6,30
+101,Gumball Watterson,170,2026-03-13,Premium,2,2026-10-21,40,5,Cable Hammer Curl,Biceps,Cable Machine,2,7,30
+101,Gumball Watterson,170,2026-03-13,Premium,2,2026-10-21,40,5,Cable Hammer Curl,Biceps,Cable Machine,3,8,30
+102,Darwin Watterson,155,2026-04-02,Standard,3,2026-10-22,60,1,Bench Press,Chest,Barbell,1,8,60
+102,Darwin Watterson,155,2026-04-02,Standard,3,2026-10-22,60,1,Bench Press,Chest,Barbell,2,8,60
+102,Darwin Watterson,155,2026-04-02,Standard,3,2026-10-22,60,1,Bench Press,Chest,Barbell,3,6,65
+102,Darwin Watterson,155,2026-04-02,Standard,3,2026-10-22,60,3,Shoulder Press,Shoulders,Dumbbells,1,10,20
+102,Darwin Watterson,155,2026-04-02,Standard,3,2026-10-22,60,3,Shoulder Press,Shoulders,Dumbbells,2,8,22
+102,Darwin Watterson,155,2026-04-02,Standard,4,2026-10-26,35,9,Cable Crunch,Abs,Cable Machine,1,15,20
+102,Darwin Watterson,155,2026-04-02,Standard,4,2026-10-26,35,9,Cable Crunch,Abs,Cable Machine,2,15,20
+102,Darwin Watterson,155,2026-04-02,Standard,4,2026-10-26,35,9,Cable Crunch,Abs,Cable Machine,3,12,25
+103,Anais Watterson,140,2026-05-10,Student,5,2026-10-23,45,2,Lat Pulldown,Back,Cable Machine,1,10,45
+103,Anais Watterson,140,2026-05-10,Student,5,2026-10-23,45,2,Lat Pulldown,Back,Cable Machine,2,10,45
+103,Anais Watterson,140,2026-05-10,Student,5,2026-10-23,45,2,Lat Pulldown,Back,Cable Machine,3,8,50
+104,Nicole Watterson,175,2026-01-20,Premium,6,2026-10-24,75,6,Barbell Squat,Quads,Squat Rack,1,8,80
+104,Nicole Watterson,175,2026-01-20,Premium,6,2026-10-24,75,6,Barbell Squat,Quads,Squat Rack,2,8,85
+104,Nicole Watterson,175,2026-01-20,Premium,6,2026-10-24,75,6,Barbell Squat,Quads,Squat Rack,3,6,90
+104,Nicole Watterson,175,2026-01-20,Premium,6,2026-10-24,75,8,Leg Press,Hamstrings,Leg Machine,1,10,120
+104,Nicole Watterson,175,2026-01-20,Premium,6,2026-10-24,75,8,Leg Press,Hamstrings,Leg Machine,2,10,130
+105,Richard Watterson,190,2026-02-14,Basic,7,2026-10-26,90,6,Barbell Squat,Quads,Squat Rack,1,8,70
+105,Richard Watterson,190,2026-02-14,Basic,7,2026-10-26,90,6,Barbell Squat,Quads,Squat Rack,2,8,70
+105,Richard Watterson,190,2026-02-14,Basic,7,2026-10-26,90,7,Deadlift,Back,Barbell,1,5,100
+105,Richard Watterson,190,2026-02-14,Basic,7,2026-10-26,90,7,Deadlift,Back,Barbell,2,5,110
+105,Richard Watterson,190,2026-02-14,Basic,7,2026-10-26,90,7,Deadlift,Back,Barbell,3,3,120
+106,Penny Fitzgerald,165,2026-06-08,Premium,8,2026-10-27,65,5,Cable Hammer Curl,Biceps,Cable Machine,1,10,25
+106,Penny Fitzgerald,165,2026-06-08,Premium,8,2026-10-27,65,5,Cable Hammer Curl,Biceps,Cable Machine,2,10,25
+106,Penny Fitzgerald,165,2026-06-08,Premium,8,2026-10-27,65,5,Cable Hammer Curl,Biceps,Cable Machine,3,8,30
+106,Penny Fitzgerald,165,2026-06-08,Premium,8,2026-10-27,65,10,Calf Raise,Calves,Smith Machine,1,15,40
+106,Penny Fitzgerald,165,2026-06-08,Premium,8,2026-10-27,65,10,Calf Raise,Calves,Smith Machine,2,15,40
+107,Tobias Wilson,172,2026-07-01,Standard,9,2026-10-27,50,4,JM Press,Triceps,Smith Machine,1,8,35
+107,Tobias Wilson,172,2026-07-01,Standard,9,2026-10-27,50,4,JM Press,Triceps,Smith Machine,2,8,40
+107,Tobias Wilson,172,2026-07-01,Standard,9,2026-10-27,50,4,JM Press,Triceps,Smith Machine,3,6,45
+108,Carrie Krueger,168,2026-07-22,Standard,10,2026-10-28,30,10,Calf Raise,Calves,Smith Machine,1,15,40
+108,Carrie Krueger,168,2026-07-22,Standard,10,2026-10-28,30,10,Calf Raise,Calves,Smith Machine,2,15,45
+109,Banana Joe,160,2026-08-15,Basic,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+110,Rocky Robinson,180,2026-09-05,Student,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+111,Krusty the Clown,172,2026-10-01,Standard,11,2026-10-28,45,11,Pull Up,Back,Pull Up Bar,1,8,0
